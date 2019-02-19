@@ -1,5 +1,3 @@
-package CodeTubes;
-
 import java.util.*;
 
 public class MainProgram {
